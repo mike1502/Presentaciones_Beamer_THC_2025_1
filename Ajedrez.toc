@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Introducción}{2}{0}{1}
+\beamer@subsectionintoc {1}{1}{El juego del ajedrez}{7}{0}{1}
